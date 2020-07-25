@@ -12,6 +12,7 @@ var pics = [
 	"images/pp.jpg",
 	"images/shal.jpg",
 	"images/sid.jpg",
+	"images/sneha.jpeg",
 	"images/sp.jpg",
 	"images/zeesh.jpg"
 ] 
@@ -21,7 +22,7 @@ var img = document.querySelector("img");
 var counter = 1;
 
 btn.addEventListener("click", function(){
-	if(counter === 14){
+	if(counter === 15){
 		counter = 0;
 	}
 	img.src = pics[counter]
