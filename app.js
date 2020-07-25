@@ -12,7 +12,7 @@ var pics = [
 	"images/pp.jpg",
 	"images/shal.jpg",
 	"images/sid.jpg",
-	"images/sneha.jpeg",
+	"images/sneha.jpg",
 	"images/sp.jpg",
 	"images/zeesh.jpg"
 ] 
